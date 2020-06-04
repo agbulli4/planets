@@ -3,4 +3,9 @@ Cold and dry, but everything is Q
 Adding a line to li's file
 =======
 Two can play this game Li :)
+<<<<<<< HEAD
 >>>>>>> 3ab3261a14e441abfe1e40d91fb201dde43636d7
+=======
+
+Li add here 
+>>>>>>> 0661b9d51050342f6d2d34a1183a0e00e562d4a5
