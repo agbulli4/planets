@@ -1,2 +1,6 @@
 Cold and dry, but everything is Q
+<<<<<<< HEAD
 Adding a line to li's file
+=======
+Two can play this game Li :)
+>>>>>>> 3ab3261a14e441abfe1e40d91fb201dde43636d7
